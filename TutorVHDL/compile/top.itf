@@ -1,0 +1,82 @@
+E Debouncer EDIF
+L IEEE;STD;
+U IEEE.STD_LOGIC_1164;
+P AR _in std_logic_vector[0;0]
+P D _in std_logic_vector[0;0]
+P CE_IBUF _in std_logic
+P CEI _in std_logic
+P CLK _in std_logic
+P eqOp__26 _in std_logic
+P NET651231 _out std_logic
+X Debouncer
+E Debouncer_0 EDIF
+L IEEE;STD;
+U IEEE.STD_LOGIC_1164;
+P AR _out std_logic_vector[0;0]
+P D _in std_logic_vector[0;0]
+P E _out std_logic_vector[0;0]
+P FSM_sequential_States_reg _in std_logic_vector[2;2]
+P out _in std_logic_vector[2:0]
+P CEI _in std_logic
+P CLK _in std_logic
+P dataB_reg[7][0] _out std_logic
+X Debouncer_0
+E Debouncer_1 EDIF
+L IEEE;STD;
+U IEEE.STD_LOGIC_1164;
+P AR _in std_logic_vector[0;0]
+P D _in std_logic_vector[0;0]
+P E _in std_logic_vector[0;0]
+P FSM_sequential_States_reg _out std_logic_vector[2;2]
+P CE_IBUF _in std_logic
+P CLK _in std_logic
+P eqOp__26 _in std_logic
+X Debouncer_1
+E Debouncer_2 EDIF
+L IEEE;STD;
+U IEEE.STD_LOGIC_1164;
+P AR _in std_logic_vector[0;0]
+P D _in std_logic_vector[0;0]
+P CE_IBUF _in std_logic
+P CEI _in std_logic
+P CLK _in std_logic
+P eqOp__26 _in std_logic
+P NET651103 _out std_logic
+X Debouncer_2
+E Prescaler EDIF
+L IEEE;STD;
+U IEEE.STD_LOGIC_1164;
+P AR _in std_logic_vector[0;0]
+P CE_IBUF _in std_logic
+P CEI _out std_logic
+P CLK _in std_logic
+P eqOp__26 _out std_logic
+X Prescaler
+E Top EDIF
+L IEEE;STD;
+U IEEE.STD_LOGIC_1164;
+P LED _out std_logic_vector[7:0]
+P SW _in std_logic_vector[7:0]
+P CE _in std_logic
+P CHECK _in std_logic
+P CLK _in std_logic
+P CLR _in std_logic
+P MINUS _in std_logic
+P PLUS _in std_logic
+P Reset _in std_logic
+X Top
+E TutorVHDL EDIF
+L IEEE;STD;
+U IEEE.STD_LOGIC_1164;
+P AR _in std_logic_vector[0;0]
+P D _in std_logic_vector[7:0]
+P DELAY_reg _in std_logic_vector[0;0]
+P E _in std_logic_vector[0;0]
+P out _out std_logic_vector[2:0]
+P Q _out std_logic_vector[7:0]
+P CLK _in std_logic
+P dataA_reg[7]_0 _out std_logic
+P FSM_sequential_States_reg[2]_0[0] _in std_logic
+P NET651103 _in std_logic
+P NET651231 _in std_logic
+X TutorVHDL

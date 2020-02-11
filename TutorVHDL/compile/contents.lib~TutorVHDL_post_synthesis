@@ -1,0 +1,15 @@
+12
+~E 1 "./../synthesis/Top.vhd" 16 Debouncer
+~A 1 "./../synthesis/Top.vhd" 28 STRUCTURE
+~E 1 "./../synthesis/Top.vhd" 72 Debouncer_0
+~A 1 "./../synthesis/Top.vhd" 87 STRUCTURE
+~E 1 "./../synthesis/Top.vhd" 170 Debouncer_1
+~A 1 "./../synthesis/Top.vhd" 184 STRUCTURE
+~E 1 "./../synthesis/Top.vhd" 228 Debouncer_2
+~A 1 "./../synthesis/Top.vhd" 242 STRUCTURE
+~E 1 "./../synthesis/Top.vhd" 286 Prescaler
+~A 1 "./../synthesis/Top.vhd" 296 STRUCTURE
+~E 1 "./../synthesis/Top.vhd" 1847 Top
+~A 1 "./../synthesis/Top.vhd" 1863 STRUCTURE
+~E 1 "./../synthesis/Top.vhd" 1101 TutorVHDL
+~A 1 "./../synthesis/Top.vhd" 1117 STRUCTURE

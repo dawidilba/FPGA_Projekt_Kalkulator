@@ -1,0 +1,46 @@
+<config>
+    <version>
+        2.1
+    </version>
+    <comment>
+    </comment>
+    <databases>
+        <database id="">*virtual*</database>
+        <database id="10f0056626fadc93475cc4695d010b00">OK.asdb</database>
+    </databases>
+    <signallists>
+        <signallist id="0">
+        <signal>/tutorvhdl_tb/CLK</signal>
+        <signal>/tutorvhdl_tb/CLR</signal>
+        <signal>/tutorvhdl_tb/CHECK</signal>
+        <signal>/tutorvhdl_tb/PLUS</signal>
+        <signal>/tutorvhdl_tb/MINUS</signal>
+        <signal>/tutorvhdl_tb/SW</signal>
+        <signal>/tutorvhdl_tb/LED</signal>
+        </signallist>
+    </signallists>
+    <prefbases>
+        <prefbase id="0" >
+            <pref name="End Time" value="2478853" />
+            <pref name="Start Time" value="433802" />
+        </prefbase>
+    </prefbases>
+    <bookmarkbases>
+        <bookmarks id="0">
+        </bookmarks>
+    </bookmarkbases>
+    <cursorbases>
+        <cursors id="0">
+            <cursor value="0" label="Cursor 1" locked="0" />
+        </cursors>
+    </cursorbases>
+    <measurementbases>
+    </measurementbases>
+    <commentbases>
+        <comments id="0">
+        </comments>
+    </commentbases>
+    <views>
+        <view signallist="0" propertybase="0" prefbase="0" type="1" bookmarks="0" cursors="0" measurements="-1" comments="-1" />
+    </views>
+</config>

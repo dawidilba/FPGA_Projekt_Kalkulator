@@ -1,0 +1,17 @@
+6
+~M 0 "" 0 Debouncer
+~A 0 "" 0 Debouncer
+~M 0 "" 0 Debouncer_0
+~A 0 "" 0 Debouncer_0
+~M 0 "" 0 Debouncer_1
+~A 0 "" 0 Debouncer_1
+~M 0 "" 0 Debouncer_2
+~A 0 "" 0 Debouncer_2
+~M 0 "" 0 Prescaler
+~A 0 "" 0 Prescaler
+~M 2 "" 0 Top
+~A 0 "" 0 Top
+~M 0 "" 0 TutorVHDL
+~A 0 "" 0 TutorVHDL
+~M 2 "" 0 glbl
+~A 0 "" 0 glbl

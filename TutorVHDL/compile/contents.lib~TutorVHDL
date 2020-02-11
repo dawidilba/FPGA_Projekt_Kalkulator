@@ -1,0 +1,12 @@
+296
+~E 1 "./../src/Debouncer.vhd" 23 Debouncer
+~A 1 "./../src/Debouncer.vhd" 35 Debouncer
+~E 1 "./../src/Prescaler.vhd" 29 Prescaler
+~A 1 "./../src/Prescaler.vhd" 40 Prescaler
+~C 1 "./../src/TestBench/tutorvhdl_TB.vhd" 92 testbench_for_tutorvhdl
+~E 1 "./../compile/Top.vhd" 27 Top
+~A 1 "./../compile/Top.vhd" 41 Top
+~E 1 "./../src/TutorVHDL.vhd" 11 TutorVHDL
+~A 1 "./../src/TutorVHDL.vhd" 23 TutorVHDL
+~E 1 "./../src/TestBench/tutorvhdl_TB.vhd" 7 tutorvhdl_tb
+~A 1 "./../src/TestBench/tutorvhdl_TB.vhd" 8 TB_ARCHITECTURE
